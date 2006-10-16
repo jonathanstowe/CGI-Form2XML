@@ -1,7 +1,10 @@
 Changes
-Form2XML.pm
+lib/CGI/Form2XML.pm
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 README
-test.pl
-xmlform.xsd
+examples/xmlform.xsd
+t/01pod.t
+t/02podcoverage.t
+t/03form2xml.t

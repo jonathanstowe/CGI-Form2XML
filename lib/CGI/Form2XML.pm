@@ -80,7 +80,7 @@ use vars qw(@ISA $VERSION);
            CGI
          );
 
-($VERSION) = q$Revision: 1.3 $ =~ /([\d.]+)/;
+$VERSION = '1.4';
 
 =item  new
 
