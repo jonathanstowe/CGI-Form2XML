@@ -15,3 +15,8 @@ Revision history for Perl extension CGI::Form2XML.
        - Moved stuff around
        - added POD tests
        - added example
+
+1.5	   Fri 30 Sep 12:18:33 BST 2016
+	   - Fix https://github.com/jonathanstowe/CGI-Form2XML/issues/1
+       - Modernise some perl idioms ('our', 'use base')
+       - Modernise the Makefile.PL
