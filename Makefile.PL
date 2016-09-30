@@ -2,7 +2,9 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'		=> 'CGI::Form2XML',
     'VERSION_FROM'	=> 'lib/CGI/Form2XML.pm', 
-    'PREREQ_PM'		=> {},
+    'PREREQ_PM'		=> {
+            'CGI'   => undef,
+        },
     'LICENSE'       => 'perl',
     'ABSTRACT'      => 'Render CGI form input as XML',
     'META_MERGE' => {
