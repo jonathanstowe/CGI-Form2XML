@@ -32,11 +32,12 @@ this is a problem.
 SUPPORT AND REPORTING BUGS
 
 Please send all bug reports, patches, suggestions and flames to the author
-(jns@gellyfish.com).
+via the github issues https://github.com/jonathanstowe/CGI-Form2XML/issues
+or if you'd rather by email (jns@gellyfish.co.uk).
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2002 - 2006 Jonathan Stowe 
+Copyright (C) 2002 - 2016 Jonathan Stowe 
 
 This module can be used and distributed under the same terms as Perl itself.
 Details of the Perl licence can be found in the file README in the source 
