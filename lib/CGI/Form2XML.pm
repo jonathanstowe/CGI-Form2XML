@@ -260,7 +260,7 @@ sub ns_prefix
     return $self->{_private}->{ns_prefix} || '';
 }
 
-=item
+=item ns_url
 
 Returns and/or sets the namespace URL for the document as described as an
 argument to asXML() above.
