@@ -74,13 +74,9 @@ use strict;
 use CGI;
 use POSIX qw(strftime);
 
-use vars qw(@ISA $VERSION);
+use base 'CGI';
 
-@ISA = qw( 
-           CGI
-         );
-
-$VERSION = '1.5';
+our $VERSION = '1.5';
 
 =item  new
 
