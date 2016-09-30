@@ -38,6 +38,7 @@ parameters, so any of the methods of that module can be used.
 =cut
 
 use strict;
+use warnings;
 
 use CGI;
 use POSIX qw(strftime);
