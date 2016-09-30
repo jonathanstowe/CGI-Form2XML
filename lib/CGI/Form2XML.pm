@@ -1,35 +1,3 @@
-#******************************************************************************
-#*           
-#*                             GELLYFISH SOFTWARE           
-#*                                                       
-#*
-#******************************************************************************
-#*
-#*          PROGRAM      :   CGI::Form2XML
-#*
-#*          AUTHOR       :   JNS
-#*
-#*          DESCRIPTION  :   Render CGI form data as XML
-#*
-#*****************************************************************************
-#*
-#*          $Log: Form2XML.pm,v $
-#*          Revision 1.3  2004/03/02 20:28:02  jonathan
-#*          Put back in CVS
-#*
-#*          Revision 1.3  2002/07/28 10:10:11  gellyfish
-#*          * POD bugette (noticed in new CPAN search)
-#*
-#*          Revision 1.2  2002/05/25 09:06:30  gellyfish
-#*          Release version
-#*
-#*          Revision 1.1.1.1  2002/05/25 09:02:28  gellyfish
-#*          Added to repository
-#*
-#*
-#*
-#*****************************************************************************/ 
-
 package CGI::Form2XML;
 
 =head1 NAME
