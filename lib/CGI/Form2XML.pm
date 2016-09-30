@@ -411,7 +411,7 @@ __END__
 
 =head1 AUTHOR
 
-    Jonathan Stowe <jns@gellyfish.com>
+    Jonathan Stowe <jns@gellyfish.co.uk>
 
 =head1 COPYRIGHT
 
