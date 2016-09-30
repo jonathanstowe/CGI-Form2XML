@@ -1,5 +1,8 @@
 Revision history for Perl extension CGI::Form2XML.
 
+1.6		Fri 30 Sep 14:40:57 BST 2016 
+		- Add CGI to PREREQ_PM as it was removed from 5.22
+
 1.5		Fri 30 Sep 12:18:33 BST 2016
 		- Fix https://github.com/jonathanstowe/CGI-Form2XML/issues/1
 		- Modernise some perl idioms ('our', 'use base')
