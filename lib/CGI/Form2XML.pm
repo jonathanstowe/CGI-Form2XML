@@ -45,7 +45,7 @@ use POSIX qw(strftime);
 
 use base 'CGI';
 
-our $VERSION = '1.5';
+our $VERSION = '1.6';
 
 =item  new
 
