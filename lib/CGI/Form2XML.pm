@@ -80,7 +80,7 @@ use vars qw(@ISA $VERSION);
            CGI
          );
 
-$VERSION = '1.4';
+$VERSION = '1.5';
 
 =item  new
 
