@@ -5,6 +5,7 @@ MANIFEST
 MANIFEST.SKIP
 README
 examples/xmlform.xsd
+examples/form2xml.cgi
 t/01pod.t
 t/02podcoverage.t
 t/03form2xml.t
